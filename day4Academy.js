@@ -38,6 +38,8 @@ console.log(getTotal(20,10))
 
 // 문제 2 시침과 분침의 각도 차이
 
+
+
 // 시침 구하는 함수( 입력 몇시? ,출력 각도)
 // function hourAngle(hour) {
 //     let Angle = hour*30
